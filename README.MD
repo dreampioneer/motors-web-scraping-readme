@@ -6,6 +6,7 @@
   <a href="#introduction">INTRODUCTION</a> •
   <a href="#challenge">CHALLENGE</a> •
   <a href="#solution">SOLUTION</a> •
+  <a href="#targets">TARGETS</a> •
   <a href="#results">RESULTS</a> •
   <a href="#technologies-used">TECHNOLOGIES USED</a> •
   <a href="#youtube-video">YOUTUBE VIDEO</a>
